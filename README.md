@@ -15,12 +15,12 @@ The goal is to identify scenarios where the system fails to correctly convert Si
 - Each test case was automated using Playwright
 - Results are recorded in the provided Excel file
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Playwright
 - OpenPyXL (Excel handling)
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
